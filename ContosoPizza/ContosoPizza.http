@@ -5,7 +5,7 @@ Accept: application/json
 
 ###
 
-<!-- Send Request: returns a list of all pizzas in JSON -->
+<!-- Send Request: returns 200 OK, returns list of all pizzas in JSON -->
 
 HTTP/1.1 200 OK
 Connection: close
