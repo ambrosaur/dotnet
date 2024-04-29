@@ -69,3 +69,26 @@ GET {{ContosoPizza_HostAddress}}/pizza/5
 Accept: application/json
 
 ###
+HTTP/1.1 201 Created
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Wed, 17 Jan 2024 17:03:02 GMT
+Server: Kestrel
+Location: http://localhost:5192/Pizza/3
+Transfer-Encoding: chunked
+
+{
+    "id": 3,
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+POST {{ContosoPizza_HostAddress}}/pizza/
+Content-Type: application/json
+
+{
+    "name": "Hawaii",
+    "isGlutenFree": false
+}
+
+###
