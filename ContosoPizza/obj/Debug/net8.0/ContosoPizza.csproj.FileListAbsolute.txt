@@ -30,3 +30,4 @@
 /Users/ambrosaur/dotnet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
 /Users/ambrosaur/dotnet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
 /Users/ambrosaur/dotnet/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/Users/ambrosaur/dotnet/ContosoPizza/obj/Debug/net8.0/ContosoPizza.sourcelink.json
